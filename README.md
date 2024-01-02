@@ -1,4 +1,4 @@
-<img src="2023/2023taobao.png" width="300" />
+<img src="2023/学术讲堂海报.jpg" width="300" />
 
 ## 朱洪银 博士 (Dr. Hongyin Zhu) 
 
