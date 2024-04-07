@@ -8,37 +8,34 @@
 * Business scope: We focus on providing excellent smart computing and knowledge graph solutions to various industries around the world. Our business scope covers the sales of data centers and edge computing servers, the provision of integrated equipment, and technical support for knowledge graphs and large model software. Committed to providing customers with a full range of services and guarantees to meet the personalized needs of different industries. It has built knowledge graphs and provided intelligent services for various vertical industries, including smart cultural tourism, automobile industry, general artificial intelligence, brain science and other industries. Through our high-performance data storage, knowledge graph website, large language model, recommendation engine and other services, we provide strong support to enterprises and research institutions, improve user experience and create huge economic benefits for their related products.
 
 ## 1 The latest trends in science and technology innovation industry
-### 1.1 受邀作报告
-* 大模型时代的知识工程：从产业和技术角度. 2024.03，北京建筑大学
-* 智慧计算知识图谱（加长版）. 2023.12.27，浪潮集团精品课程
-* [大模型时代的知识工程研究进展. 2023.12.01，兰州财经大学](https://mp.weixin.qq.com/s?__biz=MzUzODA1Nzg1OA==&mid=2247523531&idx=1&sn=5381c5a6df3bb7a5e7873314febef1d9&chksm=fadf5126cda8d8305b812605530ea6aef55e69ca0605ae8db99ccdef2b2fe071f8f0c68def06&scene=27)
-* 3D AI大模型与文化遗产智慧系统. 2023.11.01, 中山大学
-* 大模型时代的知识图谱研究进展. 2023.09.22，中山大学
-* 智慧计算知识图谱. 2023.09，浪潮电子信息产业股份有限公司
-* [数字人文知识图谱构建. 2022.10.05，中山大学](https://mp.weixin.qq.com/s?__biz=MzIyNTU2MTU2Mg==&mid=2247503871&idx=1&sn=56833448dcb3d92462ed0f212acc986d&chksm=e87f514adf08d85c7d90da4128781f97fd0afabd09105fffb3c1d2afa3d51d59609ec0ce3484&scene=27)
+### 1.1 Academic report
+* Knowledge Engineering in The Large Model Era: From an Industrial and Technical Perspective. 2024.03, Beijing University of Civil Engineering and Architecture
+* Smart Computing Knowledge Graph (Longer Version). 2023.12.27, Inspur Group’s premium course
+* [Research Progress in Knowledge Engineering in The Large Model Era. 2023.12.01, Lanzhou University of Finance and Economics](https://mp.weixin.qq.com/s?__biz=MzUzODA1Nzg1OA==&mid=2247523531&idx=1&sn=5381c5a6df3bb7a5e7873314febef1d9&chksm=fadf5126cda8d8305b812605530ea6aef55e69ca0605ae8db99ccdef2b2fe071f8f0c68def06&scene=27)
+* 3D AI Large Model and Cultural Heritage Smart System. 2023.11.01, Sun Yat-sen University
+* Research Progress on Knowledge Graphs in The Large Model Era. 2023.09.22, Sun Yat-sen University
+* Smart Computing Knowledge Graph. 2023.09, Inspur Electronic Information Industry Co., Ltd.
+* [Construction of Digital Humanities Knowledge Graph. 2022.10.05, Sun Yat-sen University](https://mp.weixin.qq.com/s?__biz=MzIyNTU2MTU2Mg==&mid=2247503871&idx=1&sn=56833448dcb3d92462ed0f212acc986d&chksm=e87f514adf08d85c7d90da4128781f97fd0afabd09105fffb3c1d2afa3d51d59609ec0ce3484&scene=27)
 
-### 1.2 研究提案/指南
-* [基于多模态数据的大语言模型和图神经网络融合技术研究](2024/doc/2024-02.pdf)
-* [面向人工智能模型的数据治理软硬件协同关键技术研究](2024/doc/2023-08.pdf)
-* [数据中心服务器智能化管理系统](2024/doc/2022-12.pdf)
+### 1.2 Research Proposal/Guidelines
+* [Research on fusion technology of large language model and graph neural network based on multi-modal data](2024/doc/2024-02.pdf)
+* [Research on key technologies of data governance software and hardware collaboration for artificial intelligence models](2024/doc/2023-08.pdf)
+* [Data center server intelligent management system](2024/doc/2022-12.pdf)
 
-
-### 1.3 参加线下活动（2024）
-* [JP Morgan金融文档大模型研讨会（中山大学线上举办），2024.03.20，北京](pic/2024/02.png)
-* [北京建筑大学 电气与信息工程学院讲座，2024.03，北京](pic/2024/01.jpg)
-
-### 1.4 参加线下活动（2023）
-* [第一届龙蜥操作系统大会 (OpenAnolis Conference 2023)，2023.12.17，北京](pic/2023/13.jpeg)
-* [AICC 2023 人工智能计算大会，2023.11.29，北京](pic/2023/12.jpg)
-* [存储服务器和GPU显卡库存，2023.10.31，北京](pic/2023/11.jpg)
-* [Amazon亚马逊生成式AI构建活动，2023.10.24，北京](pic/2023/10.png)
-* [中关村开放创新平台揭牌仪式，2023.10.13，北京](pic/2023/20231013.png)
-* [中关村国际孵化器侨界联合会成立一周年庆典--侨界企业交流会，2023.9.27，北京](pic/2023/09.jpg)
-* [中国企业家俱乐部，2023.9.27，北京](pic/2023/04.jpg)
-* [大模型重塑金融科技--新一代软件工程与场景落地研讨会，2023.9.22，北京](pic/2023/03.jpg)
-* [以边缘～致多元，2023.9.22，北京](pic/2023/01.jpg)
-* [第十七届全国知识图谱与语义计算大会，2023.08.24，沈阳](pic/2023/02.jpg)
-* [2023年计算机系校友创新创业研讨会--第一届基础模型前沿研讨会，2023.04.29，北京](pic/2023/08.jpg)
+### 1.3 Offline activity
+* [JP Morgan Financial Document Large Model Seminar (held online by Sun Yat-sen University), 2024.03.20, Beijing](pic/2024/02.png)
+* [Lecture at School of Electrical and Information Engineering, Beijing University of Civil Engineering and Architecture, 2024.03, Beijing](pic/2024/01.jpg)
+* [The First OpenAnolis Conference, 2023.12.17, Beijing](pic/2023/13.jpeg)
+* [AICC 2023 Artificial Intelligence Computing Conference, 2023.11.29, Beijing](pic/2023/12.jpg)
+* [Storage server and GPU graphics card inventory, 2023.10.31, Beijing](pic/2023/11.jpg)
+* [Amazon Generative AI Construction Event, 2023.10.25, Beijing](pic/2023/10.png)
+* [Zhongguancun Open Innovation Platform Unveiling Ceremony, 2023.10.13, Beijing](pic/2023/20231013.png)
+* [Zhongguancun International Incubator Overseas Chinese Federation's First Anniversary Celebration--Overseas Chinese Business Exchange Meeting, 2023.9.27, Beijing](pic/2023/09.jpg)
+* [China Entrepreneurs Club, 2023.9.27, Beijing](pic/2023/04.jpg)
+* [Large models reshape financial technology - New generation software engineering and scenario implementation seminar, 2023.9.22, Beijing](pic/2023/03.jpg)
+* [From edge to diversity, 2023.9.22, Beijing](pic/2023/01.jpg)
+* [The 17th China Conference on Knowledge Graph and Semantic Computing, 2023.08.24, Shenyang](pic/2023/02.jpg)
+* [2023 Computer Science Alumni Innovation and Entrepreneurship Seminar--The First Foundation Model Frontier Seminar, 2023.04.29, Beijing](pic/2023/08.jpg)
 
 ## 2 Science and Technology Industry Product Cases
 
