@@ -63,5 +63,5 @@ The Automotive Industry Complete Database is a comprehensive platform designed t
   
 The AI for Science brain science domain knowledge base is an innovative technology platform designed to help scientists and researchers conduct research and collaboration more effectively. The platform integrates a wealth of brain science resources, including research papers, data sets, laboratory notes, etc., to support users in in-depth mining and analysis. In addition, the system's personalized literature mining function can intelligently recommend relevant research results and information based on users' interests and research needs, thereby improving scientific research efficiency and accuracy.
   
-## 友情链接
+## Links
 1. [academic business card](https://liftkkkk.github.io/)
