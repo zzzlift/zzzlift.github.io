@@ -9,7 +9,7 @@
 
 ## 1 科创产业产品案例
 
-* 对话机器人、绘画机器人边缘计算智能终端
+* AI边缘计算智能终端
   
 <iframe src="//player.bilibili.com/player.html?aid=1304116807&bvid=BV1iM4m1Z7N5&cid=1531879141&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
