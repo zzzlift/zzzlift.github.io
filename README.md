@@ -11,7 +11,7 @@
 
 * 对话机器人、绘画机器人边缘计算智能终端
   
-<iframe src="//player.bilibili.com/player.html?aid=1904054625&bvid=BV1Xm411C7V1&cid=1530476262&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=1904054625&bvid=BV1Xm411C7V1&cid=1530476262&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 地表最强混合智能AI助手：llama3_70B+Yi_34B+Qwen1.5_110B </iframe>
 
 [【简易版AIGC绘画大师基于stable diffusion+gradio项目】](https://www.bilibili.com/video/BV1nJ4m1K7WY/?share_source=copy_web&vd_source=067b9b1a035ce6f22c43ce131fd58ee1)
 
