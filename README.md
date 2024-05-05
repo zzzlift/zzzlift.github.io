@@ -11,11 +11,7 @@
 
 * 对话机器人、绘画机器人边缘计算智能终端
   
-<iframe src="//player.bilibili.com/player.html?aid=1904054625&bvid=BV1Xm411C7V1&cid=1530476262&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 地表最强混合智能AI助手：llama3_70B+Yi_34B+Qwen1.5_110B </iframe>
-
-<iframe src="//player.bilibili.com/player.html?aid=1254164829&bvid=BV1nJ4m1K7WY&cid=1531739965&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 简易版AIGC绘画大师基于stable diffusion+gradio项目</iframe>
-
-<iframe src="//player.bilibili.com/player.html?aid=1453916635&bvid=BV11i421C7B5&cid=1529016719&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> ChatDoc学术论文辅助--基于Yi-34B和langchain进行PDF知识库问答</iframe>
+<iframe src="//player.bilibili.com/player.html?aid=1304116807&bvid=BV1iM4m1Z7N5&cid=1531879141&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 边缘计算智能终端是一款创新的科技产品，集成了对话机器人和绘画机器人系统。这种设备可以实现在本地进行智能分析和决策，为用户提供更加高效和个性化的服务。通过边缘计算技术，这些终端可以在离用户更近的地方处理数据，从而降低延迟并提高用户体验，保护数据隐私。无论是家庭还是企业环境，这款科创产品都能为用户带来便捷和乐趣。
 
