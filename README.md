@@ -34,6 +34,7 @@
 * [数字人文知识图谱构建. 2022.10.05，中山大学](https://mp.weixin.qq.com/s?__biz=MzIyNTU2MTU2Mg==&mid=2247503871&idx=1&sn=56833448dcb3d92462ed0f212acc986d&chksm=e87f514adf08d85c7d90da4128781f97fd0afabd09105fffb3c1d2afa3d51d59609ec0ce3484&scene=27)
 * [知识图谱, 2021.06, 沪东中华造船集团](https://www.cs.tsinghua.edu.cn/info/1031/4597.htm)
 * [知识图谱, 2020.09, 酒泉卫星发射中心](https://postdoctor.tsinghua.edu.cn/info/zxjx/2031)
+
 ### 2.2 研究提案/指南
 * [大模型预训练数据工程技术]()
 * [多模态大模型技术研究]()
@@ -43,6 +44,12 @@
 * [基于多模态数据的大语言模型和图神经网络融合技术研究](2024/doc/2024-02.pdf)
 * [面向人工智能模型的数据治理软硬件协同关键技术研究](2024/doc/2023-08.pdf)
 * [数据中心服务器智能化管理系统](2024/doc/2022-12.pdf)
+
+### 2.3 担任以下国际期刊审稿人
+* 人工智能领域：《[Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)》，《[IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)》，《[Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)》等
+* Nature旗下：《[Scientific Reports](https://www.nature.com/srep/)》,《[Social Network Analysis and Mining](https://link.springer.com/journal/13278)》,《[International Journal of Data Science and Analytics](https://link.springer.com/journal/41060)》,《[Knowledge and Information Systems](https://link.springer.com/journal/10115)》，《[The Journal of Supercomputing](https://link.springer.com/journal/11227)》，《[Artificial Intelligence Review](https://link.springer.com/journal/10462)》等
+* 交叉领域：《[Computers, Materials & Continua](https://www.techscience.com/journal/cmc)》
+* 担任期刊编委：《Journal of Artificial Intelligence and Robotics》，《Machine Learning in Engineering and Technology》
 
 ### 2.3 参加活动
 * [ISC.AI 2024--第12届互联网安全大会，2024.07，北京](pic/2024/06.jpg)
