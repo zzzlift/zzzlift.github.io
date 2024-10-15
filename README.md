@@ -9,8 +9,6 @@
 ## 1 科创产业产品案例
 
 * AI边缘计算智能终端
-  
-<iframe src="//player.bilibili.com/player.html?aid=1304116807&bvid=BV1iM4m1Z7N5&cid=1531879141&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 边缘计算智能终端是一款创新的科技产品，集成了对话机器人和绘画机器人系统。这种设备可以实现在本地进行智能分析和决策，为用户提供更加高效和个性化的服务。通过边缘计算技术，这些终端可以在离用户更近的地方处理数据，从而降低延迟并提高用户体验，保护数据隐私。无论是家庭还是企业环境，这款科创产品都能为用户带来便捷和乐趣。
 
