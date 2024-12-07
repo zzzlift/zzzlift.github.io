@@ -30,7 +30,7 @@
 * [大模型时代的知识工程研究进展. 2023.12.01，兰州财经大学](https://mp.weixin.qq.com/s?__biz=MzUzODA1Nzg1OA==&mid=2247523531&idx=1&sn=5381c5a6df3bb7a5e7873314febef1d9&chksm=fadf5126cda8d8305b812605530ea6aef55e69ca0605ae8db99ccdef2b2fe071f8f0c68def06&scene=27)
 * 3D AI大模型与文化遗产智慧系统. 2023.11.01, 中山大学
 * 大模型时代的知识图谱研究进展. 2023.09.22，中山大学
-* 智慧计算知识图谱. 2023.09，浪潮电子信息产业股份有限公司
+* 智慧计算知识图谱. 2023.09，浪潮电子信息产业股份
 * [数字人文知识图谱构建. 2022.10.05，中山大学](https://mp.weixin.qq.com/s?__biz=MzIyNTU2MTU2Mg==&mid=2247503871&idx=1&sn=56833448dcb3d92462ed0f212acc986d&chksm=e87f514adf08d85c7d90da4128781f97fd0afabd09105fffb3c1d2afa3d51d59609ec0ce3484&scene=27)
 * [知识图谱, 2021.06, 沪东中华造船集团](https://www.cs.tsinghua.edu.cn/info/1031/4597.htm)
 * [知识图谱, 2020.09, 酒泉卫星发射中心](https://postdoctor.tsinghua.edu.cn/info/zxjx/2031)
