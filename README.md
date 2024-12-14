@@ -56,6 +56,7 @@
 * 担任期刊编委：《Journal of Artificial Intelligence and Robotics》，《Machine Learning in Engineering and Technology》
 
 ### 2.3 参加活动
+* [极客公园创新大会 2025，2024.12，北京](pic/2024/09.png)
 * [资本赋能新智生产力高质量发展（北京大学），2024.11，北京](pic/2024/08.png)
 * [第一届风和论坛（智谱AI、气象局），2024.09，北京](pic/2024/07.png)
 * [ISC.AI 2024--第12届互联网安全大会，2024.07，北京](pic/2024/06.jpg)
