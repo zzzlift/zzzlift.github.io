@@ -10,6 +10,7 @@
 
 ## 1 科创产业最新动态
 ### 1.1 受邀作报告
+* [VexDB向量数据库产品发布会](https://mp.weixin.qq.com/s/97HKrJ8Zg6PhptR6OAM2yA). 2025.09，数智引航
 * [智能生存指南：智能体时代如何避免被大模型反噬](https://mp.weixin.qq.com/s/xF8S9Db1XCvUGZyP9mI1Ng). 2025.07，中山大学
 * [干一行AI一行 第二期](https://v.douyin.com/if5VoaqG/). 2025.1，"360短视频挑战赛"--潜力新星奖
 * [干一行AI一行](https://www.bilibili.com/video/BV1Xzi6YNEdd/?share_source=copy_web&vd_source=067b9b1a035ce6f22c43ce131fd58ee1). 2024.12，"360短视频挑战赛"入围作品
