@@ -1,5 +1,5 @@
 <img src="2024/202402.jpg" width="500" />
-<img src="2024/introduction.png" width="500" />
+<img src="pic/introduction.png" width="500" />
 
 ## 朱洪银
 
