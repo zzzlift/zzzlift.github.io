@@ -7,7 +7,7 @@
 * 地址：北京市海淀区上地信息路
 * 近期项目：企业数智化
 * 个人简介：语言与知识计算专委会委员，博士毕业于中国科学院自动化研究所，清华大学（知识工程实验室）博士后。曾担任奇虎360、用友网络算法专家，浪潮集团主任工程师、高端服务器系统全国重点实验室研究员；在知识图谱、自然语言处理、多智能体协同、AI搜索、AI安全、高性能计算等技术领域具备丰富的研发与落地经验；迄今已发表SCI/EI论文20余篇，申请发明专利20余项。
-* 出版专著：[《高频算法设计》](https://u.jd.com/pDTKxJ0)（[中国水利水电出版社](https://slsdcb.dljczb.com/)）优惠券：[抖音](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3783446309776785892&origin_type=605&pd_hide_footer=1)、 [京东](https://u.jd.com/pDTKxJ0)
+* 出版专著：[《高频算法设计》](https://u.jd.com/pDTKxJ0)（[中国水利水电出版社](https://slsdcb.dljczb.com/)）优惠券：[抖音](https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3783446309776785892&origin_type=605&pd_hide_footer=1)
 
 ## 1 科创产业最新动态
 ### 1.1 受邀作报告
@@ -49,7 +49,8 @@
 * 担任期刊编委：《Journal of Artificial Intelligence and Robotics》，《Machine Learning in Engineering and Technology》
 
 ### 1.4 参加活动
-* [DeepSeek 爆了，AI应用机遇在哪？](https://mp.weixin.qq.com/s/KlL4DEVT1fuP3IkzoB0lYA)，[2025，北京](pic/2025/01.png)
+* [CIPS-SMP 2025 第十三届全国社会媒体处理大会]()
+* [DeepSeek 爆了，AI应用机遇在哪？](http/s://mp.weixin.qq.com/s/KlL4DEVT1fuP3IkzoB0lYA)，[2025，北京](pic/2025/01.png)
 * [AI新纪元破局向未来 （SVIP），2024.12](pic/2024/10.jpg)，[北京](https://mp.weixin.qq.com/s/rLIE-SsV0aOou5yEXSDWxw)
 * [极客公园创新大会 2025，2024.12，北京](pic/2024/09.png)
 * [资本赋能新智生产力高质量发展（北京大学），2024.11，北京](pic/2024/08.png)
