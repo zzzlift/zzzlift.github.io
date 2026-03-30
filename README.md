@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="pic/202402.jpg" width="600"/>
+  <img src="2024/202402.jpg" width="500" />
 </p>
 
 <h1 align="center">朱洪银</h1>
