@@ -28,6 +28,14 @@
    **Construct, Align, and Reason: Large Ontology Models for Enterprise Knowledge Management**
    *arXiv:2602.00029*, 2026（被引 2 次）
 
+4. Q. Chen, H. Zhu
+   **Multimodal fusion with supervised sparse autoencoding for high-performance seal retrieval in digital heritage**
+   *Array*, 2026
+
+5. L. Wan, H. Zhu
+   **Knowledge-Enhanced Graph Reasoning for Packaging Design with Engineering Constraint Validation**
+   *Expert Systems with Applications*, 2026
+   
 ---
 
 ## 2025
